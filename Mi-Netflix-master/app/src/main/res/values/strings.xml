@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mi Netflix</string>
+    <string name="description">Welcome to popcorn factory, home of the best series and movies. Just Lay down, make some popcorn and enjoy!</string>
+    <string name="inicio">Get me in!</string>
+
+    <string name="light">sans-serif-light</string>
+    <string name="condensed">sans-serif-condensed</string>
+    <string name="thin">sans-serif-thin</string>
+    <string name="medium">sans-serif-medium</string>
+    <string name="regular">sans-serif</string>
+</resources>
